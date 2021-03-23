@@ -1,2 +1,2 @@
 # Secret-kitchen-Mobile-App
-Secret-Kitchen-Mobile-App
+It is an mobile app which is done on android studio platform using java.
